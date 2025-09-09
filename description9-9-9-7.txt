@@ -1,0 +1,82 @@
+step3: - CV + parcourir + supprimer
+	-Projet (titre-details-lien(facultatif) + possibilité d'effacer
+	-plus de Bottom overflowed
+step4: dans amci plus de Bottom overflowed
+
+BACKEND: 06 juillet 2025
+	->validation manuelle de l'admin fa mbola tsy complet
+	->empecher à n'importe qui de mahazo route n admin
+	->1 seule admin sisa, tsy afaka miala admin izy
+	->roles dans user supprimer + full gestion SPATIE
+	->Projet backend (titre-details-lien)
+	->supprimer fichier doublon dans migrations
+	->composer install
+
+STEP 1 à 5 avec verification d'email fonctionnel sous Postman
+STEP1 à4 fonctionne en backend  
+Resaka scroll step3 reglé fa email test mety fa reel mbola tsy mety
+
+-------------------------------------------------------------------
+		LOGIN FONCTIONNE
+---------------------------------------------------------------------
+		PROFIL UTILISATEUR MANDEHA FA SANS PROFIL ACADEMIQUE
+-------------------------------------------------------------------
+		PROFIL ACADEMIQUE MISY FA TSY AZO MODIFIER NA
+-------------------------------------------------------------------
+		misy role am register fa mbola tsy tester(backend zany ndro niova
+--------------------------------------------------------------------
+misokatra admins fa mbola tsy mahazo listes
+-----------------------------------------------------------------
+		interface admin apparait enfin avec donnée fa mbola tsy tena mi aprouver et tout
+
+
+
+---------------------------------
+Nouvelle register améliorer et professionnel fonctionne sous Postman
+--------------------------
+Intégrer fa ohatran ts tonga am BD donnée + lasa lien cv
+
+
+
+
+
+
+
+
+---_______________________________________________________
+register-login-fonctionne
+admin-fonctionne fa sans retrograder en etudiant
+profil fonctionne fa sans api modifier projet
+merci Bon Dieu
+
+___________________________________________________________
+ admin excel et utilisateur implementé mais avec erreur
+profil à regler avec erreur
+interface admin sans retrograder en etudiant
+sans kernel 
+
+
+________________________________________________________________
+profile marche mais projet non
+photo presque
+niveau non synchrone
+--------------------------------------------------------------
+photo marche
+__________________________________________________________________
+photo synchrone enfin , Merci Bon Dieu
+matricule et projet à corriger
+matricule reglée (Merci Mon Dieu)
+Mandeha tsara code bourse (Alhamdoullah)
+PFA et PFE integreer fa tsy afaka manao vizualisation pdf admin
+1 seule email (Merci mon Dieu)
+
+
+changer mot de passe mandeha tapany
+
+
+
+
+**********************************************************************
+        rmdir public\storage
+php artisan storage:link
+***********************************************************a chaque fois
