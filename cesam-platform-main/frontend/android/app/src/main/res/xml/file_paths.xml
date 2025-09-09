@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Répertoire temporaire pour les fichiers PDF -->
+    <cache-path name="pdf_cache" path="." />
+    
+    <!-- Répertoire externe pour les téléchargements -->
+    <external-path name="external_files" path="." />
+    
+    <!-- Répertoire des fichiers de l'app -->
+    <files-path name="app_files" path="." />
+    
+    <!-- Répertoire Documents -->
+    <external-files-path name="external_app_files" path="." />
+</paths>

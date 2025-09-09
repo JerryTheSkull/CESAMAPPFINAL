@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402458683998",
+    "project_id": "cesam-app",
+    "storage_bucket": "cesam-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402458683998:android:11c2e468125362850b22cf",
+        "android_client_info": {
+          "package_name": "com.cesam.platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAayzf5t1_xeHBd00o9U6qhMEsTlk4EMIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
